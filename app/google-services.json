@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555081844247",
+    "project_id": "fir-mptyview",
+    "storage_bucket": "fir-mptyview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555081844247:android:acceabdc65fbda47713e52",
+        "android_client_info": {
+          "package_name": "com.example.firebase_mptyview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBIWxALvbDFiOo7QwDd3VCdmUrfOM2v-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
